@@ -1,0 +1,5 @@
+cupy-cuda91
+pynvrtc
+menpo
+opencv-python
+scikit-umfpack
