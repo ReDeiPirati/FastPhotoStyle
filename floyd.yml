@@ -1,1 +1,2 @@
 env: pytorch-0.4
+machine: gpu

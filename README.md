@@ -40,3 +40,9 @@ Please check out the [tutorial](TUTORIAL.md).
 
 Click this button to open a [Workspace](https://blog.floydhub.com/workspaces/) on [FloydHub](https://www.floydhub.com/?utm_medium=readme&utm_source=fastphotostyle&utm_campaign=aug_2018). You can use the workspace to develop and test your code on a fully configured cloud GPU machine.
 
+Open a Terminal and run these command for running the first demo example:
+
+```bash
+apt-get update && apt-get install axel imagemagick
+bash demo_example1.sh
+```
